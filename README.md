@@ -56,11 +56,11 @@ The client provided **three datasets** for analysis:
 ---
 
 ##  Findings  
-✅ **16 unique content categories** exist  
-✅ **Animals** is the most popular category with **1,897 reactions (~15% of all engagement)**  
-✅ **Photos** drive the most user reactions compared to videos and text  
-✅ **January** saw the highest number of posts  
-✅ The most engaging single posts came from the **Animals** category  
+1. **16 unique content categories** exist  
+2. **Animals** is the most popular category with **1,897 reactions (~22% of all engagement)**  
+3. **Photos** drive the most user reactions compared to videos and text  
+4. **May and August** saw the highest number of posts  
+5. The most engaging single posts came from the **Animals** category  
 
 ---
 
@@ -68,17 +68,24 @@ The client provided **three datasets** for analysis:
 - **Prioritize Animals and Science** content → consistently lead in popularity and align with user interests  
 - **Capitalize on Healthy Eating** → strong engagement indicates partnership opportunities with food & health brands  
 - **Double down on photos** → lower production cost vs. videos and highest engagement levels  
-- **Leverage January/Q1** → peak posting month, ideal for high-visibility campaigns  
+- **Leverage May and August/Q2** → peak posting months, ideal for high-visibility campaigns 
+
+---
+
+## Datasets
+raw datasets(https://1drv.ms/f/c/B6F01BA262EFC1A3/Eupt8VG0yPlMgZyYyJDB_nsBCCtfpT-0nnVP0F83sDTc3A)
+
+cleaned dataset(https://1drv.ms/f/c/B6F01BA262EFC1A3/EvjuFnlDcK9ClkWL_W544hABqi08fkmaOfhLX7Md5JggPQ)
 
 ---
 
 ##  Visuals  
-*(Add exported charts here)*  
-
-- Category by Aggregate Popularity → `visuals/category_by_aggregate_popularity.png`  
-- Content Type by Reactions → `visuals/content_type_by_reactions.png`  
-- Posting Trends by Month → `visuals/posts_by_month.png`  
-- Category by Reactions → `visuals/categories_by_reactions.png`  
+Exported Charts(https://1drv.ms/f/c/B6F01BA262EFC1A3/En_iApsxOb9JmH3r9yAHWs4BQhf4oE3UQfi5NXsonrQ9DA)
+  
+- Category by Aggregate Popularity → `visuals_category_by_aggregate_popularity.jpg`  
+- Content Type by Reactions → `visuals_content_type_by_reactions.jpg`  
+- Posting Trends by Month → `visuals_posts_by_month.jpg`  
+- Category by Reactions → `visuals_categories_by_reactions.jpg`  
 
 ---
 
