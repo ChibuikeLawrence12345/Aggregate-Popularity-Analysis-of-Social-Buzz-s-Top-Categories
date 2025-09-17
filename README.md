@@ -67,8 +67,8 @@ The client provided **three datasets** for analysis:
 ##  Summary & Recommendations  
 - **Prioritize Animals and Science** content → consistently lead in popularity and align with user interests  
 - **Capitalize on Healthy Eating** → strong engagement indicates partnership opportunities with food & health brands  
-- **Double down on photos** → lower production cost vs. videos and highest engagement levels  
-- **Leverage May and August/Q2** → peak posting months, ideal for high-visibility campaigns 
+- **Double down on photos** → lower production cost vs videos and highest engagement levels  
+- **Leverage May and August/Quarter2 and Quarter3** → peak posting months, ideal for high-visibility campaigns 
 
 ---
 
