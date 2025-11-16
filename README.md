@@ -73,14 +73,14 @@ The client provided **three datasets** for analysis:
 ---
 
 ## Datasets
-raw datasets(https://1drv.ms/f/c/B6F01BA262EFC1A3/Eupt8VG0yPlMgZyYyJDB_nsBCCtfpT-0nnVP0F83sDTc3A)
+raw datasets[Link to Raw Dataset(https://1drv.ms/f/c/B6F01BA262EFC1A3/Eupt8VG0yPlMgZyYyJDB_nsBCCtfpT-0nnVP0F83sDTc3A)]
 
-cleaned dataset(https://1drv.ms/f/c/B6F01BA262EFC1A3/EvjuFnlDcK9ClkWL_W544hABqi08fkmaOfhLX7Md5JggPQ)
+cleaned dataset[Link to Cleaned Dataset(https://1drv.ms/f/c/B6F01BA262EFC1A3/EvjuFnlDcK9ClkWL_W544hABqi08fkmaOfhLX7Md5JggPQ)]
 
 ---
 
 ##  Visuals  
-Exported Charts(https://1drv.ms/f/c/B6F01BA262EFC1A3/En_iApsxOb9JmH3r9yAHWs4BQhf4oE3UQfi5NXsonrQ9DA)
+Exported Charts[Link to Exported Charts(https://1drv.ms/f/c/B6F01BA262EFC1A3/En_iApsxOb9JmH3r9yAHWs4BQhf4oE3UQfi5NXsonrQ9DA)]
   
 - Category by Aggregate Popularity → `visuals_category_by_aggregate_popularity.jpg`  
 - Content Type by Reactions → `visuals_content_type_by_reactions.jpg`  
