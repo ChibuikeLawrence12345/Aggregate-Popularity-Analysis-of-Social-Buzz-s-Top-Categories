@@ -15,7 +15,7 @@ The client needed a **clear, data-driven answer** to a critical question:
 ---
 
 ##  About the Dataset  
-The client *(data analytics and visualization job simuilation)* provided **three datasets** for analysis:  
+The client *(data analytics and visualization job simulation)* provided **three datasets** for analysis:  
 
 1. **Content** – *1,001 rows, 6 columns*  
    - Fields: Content ID, User ID, Type, Category, URL  
@@ -65,31 +65,31 @@ The client *(data analytics and visualization job simuilation)* provided **three
 ---
 
 ##  Summary & Recommendations  
-1. Optimize the Content Mix (The 60/30/10 Rule)
+1. **Optimize the Content Mix (The 60/30/10 Rule)**
 
 Action: Allocate 60% of the budget to Animals & Science (the proven engagement drivers), 30% to Healthy Eating (the high-growth partnership niche), and 10% to experimental content.
 
 Detail: This follows the Pareto Principle, ensuring you "double down" on your winners to maximize ROI while still leaving room for new revenue opportunities.
 
-2. Monetize through Partnerships (The "Revenue" Play)
+2. **Monetize through Partnerships (The "Revenue" Play)**
 
 Action: Build a media kit specifically targeting Health, Wellness, and Organic Food brands.
 
 Detail: The strong engagement in Healthy Eating proves you have a high-value audience. Pitch "sponsored recipe" posts or "health tip" segments to brands looking for an engaged community.
 
-3. Shift Production to High-ROI Formats (The "Efficiency" Play)
+3. **Shift Production to High-ROI Formats (The "Efficiency" Play)**
 
 Action: Transition the primary posting format to High-Quality Photography rather than long-form video.
 
 Detail: Photos have the highest engagement and lower production costs. Use the time and money saved from video production to increase your posting frequency of photos.
 
-4. Execute "Pulse" Marketing Campaigns (The "Timing" Play)
+4. **Execute "Pulse" Marketing Campaigns (The "Timing" Play)**
 
 Action: Schedule your biggest annual launches or high-value brand deals during May and August (Q2/Q3).
 
 Detail: These are your "Peak Performance" windows. Avoid launching new major projects in slower months; instead, save your best content to ride the natural wave of high user activity during these months.
 
-Summary for Stakeholders
+**Summary for Stakeholders**
 
 By shifting focus to Photos within the Animals and Science niches, we can decrease production costs while increasing reach. We should concentrate our biggest brand partnerships in Q2 and Q3 to maximize ROI.
 
