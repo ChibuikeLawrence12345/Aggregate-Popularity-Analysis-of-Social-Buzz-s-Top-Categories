@@ -136,6 +136,10 @@ social-buzz-analysis/
 ---
 
 ##  Contact  
-👤 *Chibuike Lawrence*  
-🔗 [LinkedIn](https://linkedin.com/in/chibuike-lawrence-2348b01b6)  
-📧 lawchibuike12345@gmail.com  
+**Name** : Chibuike Lawrence
+
+**Email** [lawchibuike12345@gmail.com]
+
+**LinkedIn** [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+
+**GitHub** [https://github.com/ChibuikeLawrence12345]
