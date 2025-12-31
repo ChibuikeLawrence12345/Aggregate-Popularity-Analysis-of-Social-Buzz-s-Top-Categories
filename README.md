@@ -15,7 +15,7 @@ The client needed a **clear, data-driven answer** to a critical question:
 ---
 
 ##  About the Dataset  
-The client *(data analytics and visualization job simulation)* provided **three datasets** for analysis:  
+The client *(Accenture North America: Data Analytics and Visualization Job Simulation)* provided **three datasets** for analysis:  
 
 1. **Content** – *1,001 rows, 6 columns*  
    - Fields: Content ID, User ID, Type, Category, URL  
