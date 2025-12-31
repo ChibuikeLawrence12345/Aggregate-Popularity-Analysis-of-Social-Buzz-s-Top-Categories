@@ -135,11 +135,13 @@ social-buzz-analysis/
 
 ---
 
-##  Contact  
-**Name** : Chibuike Lawrence
+##  Contact
 
-**Email** [lawchibuike12345@gmail.com]
+For questions or collaborations, contact:
+- **Name** : Chibuike Lawrence
 
-**LinkedIn** [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+- **Email** : [lawchibuike12345@gmail.com]
 
-**GitHub** [https://github.com/ChibuikeLawrence12345]
+- **LinkedIn** : [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+
+- **GitHub** : [https://github.com/ChibuikeLawrence12345]
